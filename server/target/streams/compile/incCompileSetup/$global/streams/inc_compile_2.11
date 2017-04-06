@@ -1,0 +1,946 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes
+compile options:
+12 items
+00 -> -feature
+01 -> -deprecation
+02 -> -encoding
+03 -> UTF-8
+04 -> -unchecked
+05 -> -Xlint
+06 -> -Yno-adapted-args
+07 -> -Ywarn-dead-code
+08 -> -Ywarn-numeric-widen
+09 -> -Ywarn-value-discard
+10 -> -Xfuture
+11 -> -Xexperimental
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.0
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+36 items
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/Main$.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/Main$delayedInit$body.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/Main.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntity$$anonfun$1.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntity$$anonfun$2.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntity$.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntity.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntityUpdate$$anonfun$merge$1.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntityUpdate$$anonfun$merge$2.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntityUpdate$.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntityUpdate.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable$$anonfun$1.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable$Users$$anonfun$$times$1.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable$Users$$anonfun$$times$2.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable$Users.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable$class.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/HttpService$$anonfun$1.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/HttpService.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$$anonfun$apply$5.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$$anon$1.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$$anon$2.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$$anonfun$inst$macro$1$1.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$anon$macro$9$1.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/restapi/services/UsersService.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/Config$class.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/Config.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/restapi/utils/DatabaseService.class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/restapi/utils/FlywayService.class
+binary dependencies:
+39 items
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.16.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.1.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.1.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.16.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.2.0-M1.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> /Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.2.0-M1.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> /Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.1.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> /Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/.ivy2/cache/com.chuusai/shapeless_2.11/bundles/shapeless_2.11-2.3.2.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.16.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.1.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.1.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.16.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.2.0-M1.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/.ivy2/cache/de.heikoseeberger/akka-http-circe_2.11/jars/akka-http-circe_2.11-1.11.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/.ivy2/cache/io.circe/circe-core_2.11/jars/circe-core_2.11-0.7.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/.ivy2/cache/io.circe/circe-generic_2.11/jars/circe-generic_2.11-0.7.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.2.0-M1.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> /Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> /Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> /Users/locnguyen/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.2.0-M1.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> /Users/locnguyen/.ivy2/cache/com.zaxxer/HikariCP/bundles/HikariCP-2.4.5.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> /Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> /Users/locnguyen/.ivy2/cache/org.flywaydb/flyway-core/jars/flyway-core-3.2.1.jar
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> /Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+14 items
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala
+member reference external dependencies:
+3 items
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> endpoint.parseuser.GetAllUsersResponse
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> endpoint.parseuser.GetAllUsersResponse$
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> endpoint.scala.api.UserEndpoint
+inheritance internal dependencies:
+2 items
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala
+inheritance external dependencies:
+0 items
+class names:
+36 items
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Main
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Main$
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Main$delayedInit$body
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> model.UserEntity
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> model.UserEntity$
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> model.UserEntity$$anonfun$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> model.UserEntity$$anonfun$2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> model.UserEntityUpdate
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> model.UserEntityUpdate$
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> model.UserEntityUpdate$$anonfun$merge$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> model.UserEntityUpdate$$anonfun$merge$2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> scala.model.UserEntityTable
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> scala.model.UserEntityTable$$anonfun$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> scala.model.UserEntityTable$Users
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> scala.model.UserEntityTable$Users$$anonfun$$times$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> scala.model.UserEntityTable$Users$$anonfun$$times$2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> scala.model.UserEntityTable$class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> route.HttpService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> route.HttpService$$anonfun$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute$$anonfun$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute$$anonfun$1$$anonfun$apply$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$$anonfun$apply$5
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$$anon$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$$anon$2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$$anonfun$inst$macro$1$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route.UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$anon$macro$9$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> restapi.services.UsersService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> Config
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> Config$class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> restapi.utils.DatabaseService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> restapi.utils.FlywayService
+used names:
+618 items
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> <init>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ?0
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> API
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ActorMaterializer
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ActorMaterializerSettings
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ActorRefFactory
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ActorSystem
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Any
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> App
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Config
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ConnectionContext
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> DatabaseConfig
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> DatabaseService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Directives
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ExceptionHandler
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ExecutionContext
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ExecutionContextExecutor
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Flow
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> FlywayService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Future
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Http
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> HttpExt
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> HttpRequest
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> HttpResponse
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> HttpService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Int
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> JdbcProfile
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> LogSource
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Logging
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> LoggingAdapter
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Main
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Materializer
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> MySQLDriver
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> MySQLProfile
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> NotUsed
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Nothing
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Object
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Option
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ParserSettings
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Predef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> RejectionHandler
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> Route
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> RouteResult
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> RoutingLog
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> RoutingSettings
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ServerBinding
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> ServerSettings
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> StdIn
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> String
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> T
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> UsersService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> actor
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> actorSystem
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> akka
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> api
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> apply
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> backend
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> bindAndHandle
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> concurrent
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> databaseService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> dbPassword
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> dbUser
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> default
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> dispatcher
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> driver
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> event
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> executor
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> fromActorSystem
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> fromAnyClass
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> getClass
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> http
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> httpHost
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> httpPort
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> httpService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> io
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> jdbcUrl
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> log
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> materializer
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> package
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> qual$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> restapi
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> route
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> route2HandlerFlow
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> routes
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> scaladsl
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> server
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> services
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> settings
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> slick
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> stream
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> usersService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> utils
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$10
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$11
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$12
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$13
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$14
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$4
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$5
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$6
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$7
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$8
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> x$9
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> &&
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> <byname>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> <init>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> ==
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> A
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> AbstractFunction2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> AbstractFunction3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Any
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> AnyRef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> B
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Boolean
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> IndexOutOfBoundsException
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Int
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Iterator
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Long
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> None
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Nothing
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Object
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Option
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Predef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Product
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> ScalaRunTime
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Serializable
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Some
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> String
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> T
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> T0
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> T1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> T2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> T3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Tuple2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Tuple3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> Unit
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> UserEntity
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> UserEntityUpdate
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> _hashCode
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> _toString
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> asInstanceOf
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> eq
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> getOrElse
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> id
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> isEmpty
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> isInstanceOf
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> model
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> package
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> password
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> require
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> runtime
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> toString
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> typedProductIterator
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> unary_!
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> user
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> username
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> ||
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> <>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> <init>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> <repeated>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> API
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> AbstractTable
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Any
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> AnyRef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> AutoInc
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> BaseTypedType
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> C
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Class
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> ClassTag
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> ColumnOption
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> ColumnOptions
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> DatabaseService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> E
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> FlatShapeLevel
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Function1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Function3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> JdbcTypes
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Level
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Long
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> LongJdbcType
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> M
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> M1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> M2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> M3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> MappedProjection
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Nothing
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> O
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Option
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> OptionTypedType
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> P
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> P1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> P2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> P3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> PostgresProfile
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Predef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> PrimaryKey
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> ProvenShape
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> R
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Rep
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Shape
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> ShapeLevel
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> ShapedValue
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> String
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> StringJdbcType
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> T
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> T1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> T2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> T3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Table
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> TableQuery
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Tag
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Tuple3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> TypedType
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> U
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> U1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> U2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> U3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> UserEntity
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> UserEntityTable
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> Users
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> _$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> _$2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> _$30
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> _$4
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> _$5
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> _$57
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> _$58
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> _$6
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> anyToShapedValue
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> api
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> apply
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> ast
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> column
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> databaseService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> driver
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> id
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> lifted
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> longColumnType
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> mappedProjectionShape
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> materializeClassTag
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> model
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> optionShape
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> package
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> password
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> proveShapeOf
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> repColumnShape
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> restapi
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> stringColumnType
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> tag
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> tuple3Shape
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> tupled
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> typedTypeToOptionTypedType
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> username
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> users
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> utils
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> <byname>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> <init>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> Any
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> AnyRef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> Directive
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> Directive0
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> Directives
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> ExecutionContext
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> Function1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> HttpService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> L
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> Nothing
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> Object
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> PathMatcher
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> PathMatcher0
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> Predef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> Route
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> String
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> UserServiceRoute
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> UsersService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> _segmentStringToPathMatcher
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> addByNameNullaryApply
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> akka
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> apply
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> concurrent
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> executionContext
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> http
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> package
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> pathPrefix
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> restapi
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> route
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> routes
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> scaladsl
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> server
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> services
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> userSerice
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> usersRouter
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> $anon
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> $conforms
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ::
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> <:<
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> <byname>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> <init>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> <refinement>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> <repeated>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ==
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> A
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> A0
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ActorMaterializer
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ActorSystem
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Any
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> AnyRef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ArrayEncoder
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Aux
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> B
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Boolean
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> C
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> CirceSupport
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> DatabaseConfig
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> DefaultSymbolicLabelling
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> DerivedObjectEncoder
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Directive
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Directive0
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Directives
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Encoder
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> EncoderOps
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ExecutionContext
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Exported
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> FieldType
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Function1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Future
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> GenTraversableOnce
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Generic
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> GetAllUsersResponse
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> H
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> HList
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> HNil
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Http
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> I
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> IsTraversableOnce
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Iterable
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Json
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> JsonObject
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> K
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> KH
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> KT
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> KeyTag
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> L
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> LabelledGeneric
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Lazy
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Long
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Marshaller
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> MatchError
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Nothing
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Object
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ObjectEncoder
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Option
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Out
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> PathMatcher
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> PathMatcher0
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Predef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> R
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Random
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Repr
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ReprObjectEncoder
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Route
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> S
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Seq
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Serializable
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> StandardRoute
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> StdIn
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> String
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Symbol
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> T
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> T0
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> T1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> T2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Tagged
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ToEntityMarshaller
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ToResponseMarshallable
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ToResponseMarshaller
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Tuple2
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> UserEndpoint
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> UserEntity
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> UserServiceRoute
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> UsersService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> V
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> VH
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> VT
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Vector
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> Witness
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ZipWithKeys
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> _root_
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> _segmentStringToPathMatcher
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> a
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> actor
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> addByNameNullaryApply
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> akka
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> akkahttp
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> akkahttpcirce
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> anon$exportEncoder$macro$16
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> anon$macro$9
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> api
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> apply
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> asInstanceOf
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> asJson
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> auto
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> backend
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> circe
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> circeToEntityMarshaller
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> collection
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> complete
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> concurrent
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> de
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> deriveEncoder
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> deriveReprObjectEncoder
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> encodeJson
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> encodeLong
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> encodeOption
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> encodeString
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> encodeTraversableOnce
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> encoding
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> endpoint
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> endpoints
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> executionContext
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> export
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> exportEncoder
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> fresh$macro$11
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> fresh$macro$12
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> fresh$macro$13
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> fresh$macro$14
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> fresh$macro$15
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> fromIterable
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> futureMarshaller
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> genTraversableLikeRepr
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> generic
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> get
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> getUsers
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> hconsZipWithKeys
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> head
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> heikoseeberger
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> hlist
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> hnilZipWithKeys
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> http
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> id
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> immutable
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> importedEncoder
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> inst$macro$1
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> inst$macro$10
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> inst$macro$17
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> io
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> labelled
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> lazily
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> liftMarshaller
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> map
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> marshalling
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> materialize
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> materializeProduct
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> mkDefaultSymbolicLabelling
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> mkLazy
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> mkWitness
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> model
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> ne
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> p
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> package
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> parseuser
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> password
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> pat$macro$6
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> pat$macro$7
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> pat$macro$8
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> pathEndOrSingleSlash
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> pathPrefix
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> restapi
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> route
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> scaladsl
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> server
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> services
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> shapeless
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> slick
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> stream
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> syntax
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> tag
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> tail
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> userService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> username
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> util
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> x
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> <init>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> API
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> Any
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> C
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> DBIOAction
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> DatabaseDef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> DatabaseService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> Effect
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> ExecutionContext
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> Future
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> NoStream
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> Nothing
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> Object
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> PostgresProfile
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> Query
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> R
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> Read
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> Seq
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> StreamingProfileAction
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> StreamingQueryActionExtensionMethods
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> TableElementType
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> TableQuery
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> U
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> UserEntity
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> UserEntityTable
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> Users
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> UsersService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> _$3
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> api
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> concurrent
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> databaseService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> db
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> driver
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> model
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> package
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> restapi
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> result
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> run
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> services
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> streamableQueryActionExtensionMethods
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> users
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> utils
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> AnyRef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> Config
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> ConfigFactory
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> Int
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> String
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> com
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> config
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> databaseConfig
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> dbPassword
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> dbUser
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> getConfig
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> getInt
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> getString
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> httpConfig
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> httpHost
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> httpPort
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> jdbcUrl
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> load
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> typesafe
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> <init>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> API
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> AnyRef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> AsyncExecutor
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> Backend
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> Boolean
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> DataSource
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> Database
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> DatabaseDef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> DatabaseFactory
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> DatabaseService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> HikariConfig
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> HikariDataSource
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> Object
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> PostgresDriver
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> PostgresProfile
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> Predef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> Session
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> String
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> Unit
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> api
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> com
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> createSession
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> dataSource
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> db
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> dbPassword
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> dbUser
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> driver
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> forDataSource
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> hikari
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> hikariConfig
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> jdbcUrl
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> package
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> restapi
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> setJdbcUrl
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> setPassword
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> setUsername
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> slick
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> utils
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> zaxxer
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> <init>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> <repeated...>
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> AnyRef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> Flyway
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> FlywayService
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> Int
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> Object
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> Predef
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> String
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> Unit
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> clean
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> core
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> dbPassword
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> dbUser
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> flyway
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> flywaydb
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> jdbcUrl
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> migrate
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> org
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> restapi
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> scala
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> setDataSource
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> utils
+product stamps:
+36 items
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/Config$class.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/Config.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/Main$.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/Main$delayedInit$body.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/Main.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntity$$anonfun$1.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntity$$anonfun$2.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntity$.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntity.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntityUpdate$$anonfun$merge$1.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntityUpdate$$anonfun$merge$2.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntityUpdate$.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/model/UserEntityUpdate.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/restapi/services/UsersService.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/restapi/utils/DatabaseService.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/restapi/utils/FlywayService.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/HttpService$$anonfun$1.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/HttpService.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$$anon$1.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$$anon$2.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$$anonfun$inst$macro$1$1.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1$anon$macro$9$1.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4$anon$exportEncoder$macro$16$1.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1$$anonfun$apply$1.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute$$anonfun$1.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/route/UserServiceRoute.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable$$anonfun$1.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable$Users$$anonfun$$times$1.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable$Users$$anonfun$$times$2.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable$Users.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable$class.class -> lastModified(1491412428000)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.11/classes/scala/model/UserEntityTable.class -> lastModified(1491412428000)
+source stamps:
+11 items
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> hash(e41840d982efdd9a2d4c668da53fe2141acdc68f)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> hash(bff3a3d83acb8119cccf6b5bdf75a57692840b38)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> hash(6c5049468dac0aea16a71d7221e94ab8598ffc38)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> hash(fa04b4b384f443e94053643d910ad43eb017dbde)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> hash(b1db77a495a74f07262b435beadb2509c675a97e)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/MainService.scala -> hash(1a4c7955a7afcda8a997b2c3d5358e80e13a8aaf)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> hash(3c065c17733c07c5cab9b4224a58fced578972e7)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> hash(c634742de862f449899e92aaf447579e53f31b7d)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> hash(12bb468c815402f447b572791f24de3c05501770)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> hash(c12fc871d1d6839e49556a82fd4e81fe66c8722c)
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/MySQLDBImp.scala -> hash(aecd24f602a48406ec6114146f784fea62cf786a)
+binary stamps:
+14 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1433812782000)
+/Users/locnguyen/.ivy2/cache/com.chuusai/shapeless_2.11/bundles/shapeless_2.11-2.3.2.jar -> lastModified(1471521095000)
+/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.16.jar -> lastModified(1482159145000)
+/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.1.jar -> lastModified(1482426160000)
+/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.1.jar -> lastModified(1482426167000)
+/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.16.jar -> lastModified(1482159211000)
+/Users/locnguyen/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.2.0-M1.jar -> lastModified(1467640827000)
+/Users/locnguyen/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431099960000)
+/Users/locnguyen/.ivy2/cache/com.zaxxer/HikariCP/bundles/HikariCP-2.4.5.jar -> lastModified(1458358578000)
+/Users/locnguyen/.ivy2/cache/de.heikoseeberger/akka-http-circe_2.11/jars/akka-http-circe_2.11-1.11.0.jar -> lastModified(1479834413000)
+/Users/locnguyen/.ivy2/cache/io.circe/circe-core_2.11/jars/circe-core_2.11-0.7.0.jar -> lastModified(1484670415000)
+/Users/locnguyen/.ivy2/cache/io.circe/circe-generic_2.11/jars/circe-generic_2.11-0.7.0.jar -> lastModified(1484670439000)
+/Users/locnguyen/.ivy2/cache/org.flywaydb/flyway-core/jars/flyway-core-3.2.1.jar -> lastModified(1426863229000)
+/Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar -> lastModified(1397639609000)
+class names:
+14 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/locnguyen/.ivy2/cache/com.chuusai/shapeless_2.11/bundles/shapeless_2.11-2.3.2.jar -> shapeless.DefaultSymbolicLabelling
+/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.16.jar -> akka.actor.ActorSystem
+/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.1.jar -> akka.http.scaladsl.Http
+/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.1.jar -> akka.http.scaladsl.server.ImplicitPathMatcherConstruction
+/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.16.jar -> akka.stream.ActorMaterializer$
+/Users/locnguyen/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.2.0-M1.jar -> slick.jdbc.PostgresProfile$
+/Users/locnguyen/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.ConfigFactory
+/Users/locnguyen/.ivy2/cache/com.zaxxer/HikariCP/bundles/HikariCP-2.4.5.jar -> com.zaxxer.hikari.HikariDataSource
+/Users/locnguyen/.ivy2/cache/de.heikoseeberger/akka-http-circe_2.11/jars/akka-http-circe_2.11-1.11.0.jar -> de.heikoseeberger.akkahttpcirce.CirceSupport
+/Users/locnguyen/.ivy2/cache/io.circe/circe-core_2.11/jars/circe-core_2.11-0.7.0.jar -> io.circe.Encoder
+/Users/locnguyen/.ivy2/cache/io.circe/circe-generic_2.11/jars/circe-generic_2.11-0.7.0.jar -> io.circe.generic.encoding.ReprObjectEncoder
+/Users/locnguyen/.ivy2/cache/org.flywaydb/flyway-core/jars/flyway-core-3.2.1.jar -> org.flywaydb.core.Flyway
+/Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar -> scala.Unit
+internal apis:
+11 items
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwf5TVpQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAARzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCqgDiOdAALYWN0b3JTeXN0ZW1zcQB+AAsczkyfdAADbG9nc3EAfgALWrjWJnQACGV4ZWN1dG9yc3EAfgALhjhDzXQADG1hdGVyaWFsaXplcnVxAH4ACQAAACFzcQB+AAv248UGdAAGbm90aWZ5c3EAfgALQhL5dnQABmRiVXNlcnNxAH4AC05NRxt0AAR3YWl0c3EAfgALYEojJnQADSRhc0luc3RhbmNlT2ZzcQB+AAuiAuv3dAAGZXF1YWxzc3EAfgALi3ctCHQADGFzSW5zdGFuY2VPZnNxAH4AC/J59Ax0AA5leGVjdXRpb25TdGFydHNxAH4ACzJaP0t0AApkYlBhc3N3b3Jkc3EAfgALSCbSKHQADHN5bmNocm9uaXplZHNxAH4ACxL6zad0AA0kaXNJbnN0YW5jZU9mc3EAfgALpHAno3QAD2RhdGFiYXNlU2VydmljZXNxAH4AC54tyrN0AARtYWluc3EAfgALuWGJ43QAC2h0dHBTZXJ2aWNlc3EAfgALtfDGr3QADHVzZXJzU2VydmljZXNxAH4AC10q7PN0AAlub3RpZnlBbGxzcQB+AAuoh3JZdAAMaXNJbnN0YW5jZU9mc3EAfgALRUAxYXQAAj09c3EAfgALSrMMWHQAB2pkYmNVcmxzcQB+AAsx2KWWdAAFY2xvbmVzcQB+AAt3R79+dAAIaHR0cFBvcnRzcQB+AAueKdgldAAGJGluaXQkc3EAfgALUzB6s3QABE1haW5zcQB+AAsp2qJXdAAIdG9TdHJpbmdzcQB+AAtBBRmwdAAEYXJnc3NxAH4ACyjdrE10AAIhPXNxAH4AC/aO9rp0AAhnZXRDbGFzc3NxAH4AC9NLRrB0AAJuZXNxAH4AC/N2ERV0AAhodHRwSG9zdHNxAH4AC//Rprx0AAJlcXNxAH4ACxF/dyt0AAtkZWxheWVkSW5pdHNxAH4AC3WHvIJ0AAIjI3NxAH4ACwzrfp90AAhmaW5hbGl6ZXNxAH4AC9TwSkd0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AQXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AenNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBhTAAJaW5oZXJpdGVkcQB+AGFMAAdwYXJlbnRzcQB+AGF4cQB+AH9zcQB+AHp1cQB+AFwAAAAAc3EAfgB6dXEAfgBcAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBicQB+AGt1cQB+AGwAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCJeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH50ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ao3NxAH4AbgBxAH4ALXVxAH4AcAAAAABzcQB+AJZ0AARVbml0cQB+AJx1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgCJeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBzdAAFUGxhaW5xAH4ARXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Al1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AfnNxAH4AlnQABUFycmF5cQB+AJx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AlnQABlN0cmluZ3NxAH4AmnNxAH4AnXVxAH4AoAAAAANzcQB+AKJ0AARqYXZhc3EAfgCidAAEbGFuZ3EAfgCnc3EAfgB6dXEAfgC+AAAABXNxAH4AlnQABkNvbmZpZ3NxAH4AmnNxAH4AnXVxAH4AoAAAAAFxAH4Ap3NxAH4AlnQAA0FwcHEAfgCcc3EAfgCWdAALRGVsYXllZEluaXRxAH4AnHNxAH4AlnQABk9iamVjdHEAfgDCc3EAfgCWdAADQW55cQB+AJx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWz8bd3V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABGL1VzZXJzL2xvY25ndXllbi9EZXNrdG9wL0NSVURFbmRwb2ludC9zZXJ2ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOQYQNmC792aLUxmjaU/4hQazcaP
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8xF39wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKNheVXQABm5vdGlmeXNxAH4ADGVky7l0AAR3YWl0c3EAfgAMpTh4GnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMr5mqk3QADSRhc0luc3RhbmNlT2ZzcQB+AAyVW1MRdAAMcHJvZHVjdEFyaXR5c3EAfgAMe+FRbHQABmVxdWFsc3NxAH4ADALih4l0AAh1c2VybmFtZXNxAH4ADH/lu1J0AAxhc0luc3RhbmNlT2ZzcQB+AAy1eMAXdAAMc3luY2hyb25pemVkc3EAfgAMhzIBrHQADSRpc0luc3RhbmNlT2ZzcQB+AAw3KvSadAAIY2FuRXF1YWxzcQB+AAy/oHeddAANcHJvZHVjdFByZWZpeHNxAH4ADKacBU50ABBVc2VyRW50aXR5VXBkYXRlc3EAfgAMIcdSHXQACW5vdGlmeUFsbHNxAH4ADMxM+510AAxpc0luc3RhbmNlT2ZzcQB+AAyA8AP0dAAGPGluaXQ+c3EAfgAMFfmqWXQABW1lcmdlc3EAfgAM62VJwHQAAmlkc3EAfgAM939qzHQAAj09c3EAfgAMEKB/rXQABWNsb25lc3EAfgAMkkzD9nQABiRpbml0JHNxAH4ADBZ5xcl0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADN6E+Od0AARjb3B5c3EAfgAMZLxC3XQACHRvU3RyaW5nc3EAfgAMTo7NP3QAAiE9c3EAfgAMHdjHdnQACGdldENsYXNzc3EAfgAMUZkOynQADmNvcHkkZGVmYXVsdCQxc3EAfgAMr33EIXQAClVzZXJFbnRpdHlzcQB+AAwLH9yFdAACbmVzcQB+AAyKd89WdAACZXFzcQB+AAyy0lp9dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM/7/DznQAAiMjc3EAfgAMos+PrXQACGZpbmFsaXplc3EAfgAM9ccjyHQADnByb2R1Y3RFbGVtZW50c3EAfgAMJuJsEnQACGhhc2hDb2Rlc3EAfgAMr+9HGnQACHBhc3N3b3Jkc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEG1vZGVsLlVzZXJFbnRpdHl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ad3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBfTAAJaW5oZXJpdGVkcQB+AF9MAAdwYXJlbnRzcQB+AF94cQB+AHxzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXEAfgBaAAAAAHNxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ae3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ae3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlXNxAH4AiHEAfgCLc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHQABGphdmFzcQB+AJR0AAJpb3EAfgCZc3EAfgCIdAAHUHJvZHVjdHEAfgCOc3EAfgCIdAAGRXF1YWxzcQB+AI5zcQB+AIh0AAZPYmplY3RzcQB+AIxzcQB+AI91cQB+AJIAAAADc3EAfgCUcQB+AJ9zcQB+AJR0AARsYW5ncQB+AJlzcQB+AIh0AANBbnlxAH4AjnNxAH4AXHEAfgBpdXEAfgBqAAAAAHNxAH4AbAB0ABZtb2RlbC5Vc2VyRW50aXR5VXBkYXRldXEAfgBvAAAAAHEAfgBzdXEAfgB1AAAAAHNxAH4Ad3EAfgB9c3EAfgB3c3EAfgB/c3EAfgB3dXEAfgBaAAAAAHNxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cQB+AIYAAAAGc3EAfgCIcQB+AItzcQB+AIxzcQB+AI91cQB+AJIAAAACc3EAfgCUcQB+AJdxAH4AmXNxAH4AiHEAfgCLc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHEAfgCfc3EAfgCUdAACaW9xAH4AmXNxAH4AiHEAfgCjcQB+AMBzcQB+AIh0AAZFcXVhbHNxAH4AwHNxAH4AiHEAfgCnc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHEAfgCfc3EAfgCUcQB+AK1xAH4AmXNxAH4AiHEAfgCvcQB+AMB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAVtb2RlbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWz8bd3V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABGL1VzZXJzL2xvY25ndXllbi9EZXNrdG9wL0NSVURFbmRwb2ludC9zZXJ2ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFL/zo9g6y4EZzM9rW991pXaShAs4
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+ynRggAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA0c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwLe9S1nQABm5vdGlmeXNxAH4ADIWfbRl0AAR3YWl0c3EAfgAMWuyY+HQAASpzcQB+AAwgxxpadAANJGFzSW5zdGFuY2VPZnNxAH4ADG1DaeN0AAVVc2Vyc3NxAH4ADEJqeCF0AAZlcXVhbHNzcQB+AAzzC/TAdAAIdXNlcm5hbWVzcQB+AAzo1GPvdAAUZm9yZWlnbktleSRkZWZhdWx0JDVzcQB+AAw25vlVdAAHaW5kZXhlc3NxAH4ADI/5MO90AAxhc0luc3RhbmNlT2ZzcQB+AAxQzBTYdAAQdGFibGVDb25zdHJhaW50c3NxAH4ADMv2+xx0AAV1c2Vyc3NxAH4ADKWfxc50AApmb3JlaWduS2V5c3EAfgAMa0yODHQADHN5bmNocm9uaXplZHNxAH4ADNiu6Q10AA0kaXNJbnN0YW5jZU9mc3EAfgAMiZQR+3QACWVuY29kZVJlZnNxAH4ADJvL1Id0AAtwcmltYXJ5S2V5c3NxAH4ADFTKYCJ0AAl0YWJsZU5vZGVzcQB+AAwmlInjdAAPZGF0YWJhc2VTZXJ2aWNlc3EAfgAM+wprHXQADXRhYmxlUHJvdmlkZXJzcQB+AAxQkWkVdAALZm9yZWlnbktleXNzcQB+AAyRufd5dAAJbm90aWZ5QWxsc3EAfgAMfBZQ4HQACnByaW1hcnlLZXlzcQB+AAzaowwcdAAMaXNJbnN0YW5jZU9mc3EAfgAMv+Y2KnQAD1VzZXJFbnRpdHlUYWJsZXNxAH4ADPE09Zt0ABRmb3JlaWduS2V5JGRlZmF1bHQkNnNxAH4ADAMkQtV0AAY8aW5pdD5zcQB+AAwYjOhCdAACaWRzcQB+AAxDO4PAdAAKc2NoZW1hTmFtZXNxAH4ADNxU4s10AAhjcmVhdGVfKnNxAH4ADFr9dY50AAl0YWJsZU5hbWVzcQB+AAxREdGIdAAIdGFibGVUYWdzcQB+AAwo4JCAdAACPT1zcQB+AAynra66dAAFY2xvbmVzcQB+AAxDI4HZdAAGdG9Ob2Rlc3EAfgAMLdlZWHQAE2NvbGxlY3RGaWVsZFN5bWJvbHNzcQB+AAzQdRmKdAAQVGFibGVFbGVtZW50VHlwZXNxAH4ADOKINW10AAYkaW5pdCRzcQB+AAyY9RzzdAAGY29sdW1uc3EAfgAMidGX+nQACHRvU3RyaW5nc3EAfgAMsRvU/nQAD2luZGV4JGRlZmF1bHQkM3NxAH4ADKa6Sfl0AAIhPXNxAH4ADJVwcyB0AAhnZXRDbGFzc3NxAH4ADN0BMeZ0ABN0YWJsZUlkZW50aXR5U3ltYm9sc3EAfgAMmCBLpHQAAm5lc3EAfgAMDWdL5XQAAU9zcQB+AAxRzrL2dAACZXFzcQB+AAxRadL+dAACIyNzcQB+AAz35lU3dAAIZmluYWxpemVzcQB+AAxmZBlndAAFaW5kZXhzcQB+AAyWXqS3dAAIaGFzaENvZGVzcQB+AAzkjMSWdAAIcGFzc3dvcmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAbc2NhbGEubW9kZWwuVXNlckVudGl0eVRhYmxldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Af0wACWluaGVyaXRlZHEAfgB/TAAHcGFyZW50c3EAfgB/eHEAfgCcc3EAfgCXdXEAfgB6AAAAAHNxAH4Al3VxAH4AegAAAABzcQB+AJd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJt0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ALR0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALVzcQB+AKh0AANBbnlzcQB+AKxzcQB+AK91cQB+ALIAAAACc3EAfgC0dAAFc2NhbGFxAH4Au3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC3NjYWxhLm1vZGVsc3EAfgDFcQB+AMJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVs/G3d1dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARi9Vc2Vycy9sb2NuZ3V5ZW4vRGVza3RvcC9DUlVERW5kcG9pbnQvc2VydmVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRsUElGjawK6hanHXIh6Uq4WY/8OA==
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwFQrcwwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwUOfnNHQABm5vdGlmeXNxAH4ADB4u6kx0AAR3YWl0c3EAfgAMOrO/G3QADSRhc0luc3RhbmNlT2ZzcQB+AAy3tf5BdAALdXNlcnNSb3V0ZXJzcQB+AAy2EYI2dAAGcm91dGVzc3EAfgAM7y4TmXQABmVxdWFsc3NxAH4ADI+wsAt0AAxhc0luc3RhbmNlT2ZzcQB+AAwgl4P5dAAMc3luY2hyb25pemVkc3EAfgAMYYFd+3QADSRpc0luc3RhbmNlT2ZzcQB+AAxclhPddAAJbm90aWZ5QWxsc3EAfgAMSBcDkHQADGlzSW5zdGFuY2VPZnNxAH4ADO9sva90AAY8aW5pdD5zcQB+AAyLpXD0dAACPT1zcQB+AAzmyFPRdAAFY2xvbmVzcQB+AAzP28KrdAALSHR0cFNlcnZpY2VzcQB+AAyd+nNQdAAIdG9TdHJpbmdzcQB+AAy0AikZdAACIT1zcQB+AAyQGfDOdAAIZ2V0Q2xhc3NzcQB+AAyI5vhSdAACbmVzcQB+AAwG0kCSdAACZXFzcQB+AAy6V3TxdAACIyNzcQB+AAz6VBEgdAAIZmluYWxpemVzcQB+AAwmRGdFdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAARcm91dGUuSHR0cFNlcnZpY2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGJzcQB+AF11cQB+AEAAAAAAc3EAfgBddXEAfgBAAAAAAHNxAH4AXXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFcm91dGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVs/G3d1dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARi9Vc2Vycy9sb2NuZ3V5ZW4vRGVza3RvcC9DUlVERW5kcG9pbnQvc2VydmVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT6BLSzhPRD6UBTZD2RCtQ+sBfb3g==
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjzbl7gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAmaCJndAARY2lyY2VVbm1hcnNoYWxsZXJzcQB+AAtRSaVBdAAXY2lyY2VUb0VudGl0eU1hcnNoYWxsZXJ1cQB+AAkAAAAZc3EAfgALGbGZGXQABm5vdGlmeXNxAH4ACxkrZk90AAR3YWl0c3EAfgAL40WK9XQADSRhc0luc3RhbmNlT2ZzcQB+AAsTzIvadAAGZXF1YWxzc3EAfgALIw5zRHQADGFzSW5zdGFuY2VPZnNxAH4AC0gJJJ50AAxzeW5jaHJvbml6ZWRzcQB+AAua9RgIdAANJGlzSW5zdGFuY2VPZnNxAH4AC3J/NnF0AAlub3RpZnlBbGxzcQB+AAt9hvwcdAAMaXNJbnN0YW5jZU9mc3EAfgALlrkbk3QABjxpbml0PnNxAH4AC/3H76B0AAI9PXNxAH4ACyCbin90AAVjbG9uZXNxAH4AC329DIN0ACFjaXJjZVRvRW50aXR5TWFyc2hhbGxlciRkZWZhdWx0JDJzcQB+AAtNhq2rdAAGJGluaXQkc3EAfgALesSB/nQAC3VzZXJTZXJ2aWNlc3EAfgALJr6pB3QACHRvU3RyaW5nc3EAfgALZmjYF3QAAiE9c3EAfgAL3O/rLnQABXJvdXRlc3EAfgALCydi03QACGdldENsYXNzc3EAfgALQ2XxfnQAAm5lc3EAfgALOboy03QAAmVxc3EAfgALWRPxVnQAEFVzZXJTZXJ2aWNlUm91dGVzcQB+AAs6ZU97dAACIyNzcQB+AAu/4uOGdAAIZmluYWxpemVzcQB+AAvyo51SdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAWcm91dGUuVXNlclNlcnZpY2VSb3V0ZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBlc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AanNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cQB+AEgAAAAAc3EAfgBldXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAMQ2lyY2VTdXBwb3J0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAJkZXNxAH4AgnQADmhlaWtvc2VlYmVyZ2Vyc3EAfgCCdAANYWtrYWh0dHBjaXJjZXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCDc3EAfgB2dAAGT2JqZWN0c3EAfgB6c3EAfgB9dXEAfgCAAAAAA3NxAH4AgnQABGphdmFzcQB+AIJ0AARsYW5ncQB+AItzcQB+AHZ0AANBbnlzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCdAAFc2NhbGFxAH4Ai3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABXJvdXRlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbPxt3dXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEYvVXNlcnMvbG9jbmd1eWVuL0Rlc2t0b3AvQ1JVREVuZHBvaW50L3NlcnZlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUsdt3pJWnTwcmK0Nb6tslCcZ1qX4=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/MainService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbPxt3dXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdABGL1VzZXJzL2xvY25ndXllbi9EZXNrdG9wL0NSVURFbmRwb2ludC9zZXJ2ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBpMeVWnr82oqZeyw9U1joDhOoqv
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw61PbRQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA1c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdEM1iHQABm5vdGlmeXNxAH4ADDAzDyJ0AAR3YWl0c3EAfgAMh5u8K3QAASpzcQB+AAwthUa7dAANJGFzSW5zdGFuY2VPZnNxAH4ADBN/Lsl0AAVVc2Vyc3NxAH4ADHFlrvZ0AAZlcXVhbHNzcQB+AAz/kEG4dAAIdXNlcm5hbWVzcQB+AAzL09KjdAAUZm9yZWlnbktleSRkZWZhdWx0JDVzcQB+AAxS2J6qdAAHaW5kZXhlc3NxAH4ADIzoxNx0AAxhc0luc3RhbmNlT2ZzcQB+AAxc4PMMdAAQdGFibGVDb25zdHJhaW50c3NxAH4ADFDRDBV0AAV1c2Vyc3NxAH4ADES8yRV0AApmb3JlaWduS2V5c3EAfgAMW1Bdc3QADHN5bmNocm9uaXplZHNxAH4ADDd6I590AAxVc2Vyc1NlcnZpY2VzcQB+AAy/WxgxdAANJGlzSW5zdGFuY2VPZnNxAH4ADEshFfJ0AAllbmNvZGVSZWZzcQB+AAxGyYsrdAALcHJpbWFyeUtleXNzcQB+AAy5lfNndAAJdGFibGVOb2Rlc3EAfgAMn4+WUnQAD2RhdGFiYXNlU2VydmljZXNxAH4ADApA2/d0AA10YWJsZVByb3ZpZGVyc3EAfgAM9l1Xj3QAC2ZvcmVpZ25LZXlzc3EAfgAMxYQjoXQACW5vdGlmeUFsbHNxAH4ADBBjZPZ0AApwcmltYXJ5S2V5c3EAfgAMHmSvsnQADGlzSW5zdGFuY2VPZnNxAH4ADFzLnnJ0ABRmb3JlaWduS2V5JGRlZmF1bHQkNnNxAH4ADGy/r0p0AAY8aW5pdD5zcQB+AAz++waEdAACaWRzcQB+AAzEBbvIdAAKc2NoZW1hTmFtZXNxAH4ADJrQ4Kx0AAhjcmVhdGVfKnNxAH4ADBS1OFd0AAl0YWJsZU5hbWVzcQB+AAxEup2DdAAIdGFibGVUYWdzcQB+AAw3C4Z1dAACPT1zcQB+AAwBQ+tndAAFY2xvbmVzcQB+AAyanav6dAAGdG9Ob2Rlc3EAfgAMiDuX53QAE2NvbGxlY3RGaWVsZFN5bWJvbHNzcQB+AAyggy2OdAAQVGFibGVFbGVtZW50VHlwZXNxAH4ADCtTwa50AAYkaW5pdCRzcQB+AAxBRvdQdAAGY29sdW1uc3EAfgAMzMboN3QACHRvU3RyaW5nc3EAfgAMJ8rMLnQAD2luZGV4JGRlZmF1bHQkM3NxAH4ADOyCHOt0AAIhPXNxAH4ADFFWVQR0AAhnZXRDbGFzc3NxAH4ADOAGOqx0AAhnZXRVc2Vyc3NxAH4ADAVbDY90ABN0YWJsZUlkZW50aXR5U3ltYm9sc3EAfgAMoBEyd3QAAm5lc3EAfgAM0LIFyXQAAU9zcQB+AAw45MH8dAACZXFzcQB+AAyHhnmSdAACIyNzcQB+AAwPStG9dAAIZmluYWxpemVzcQB+AAxtTTD4dAAFaW5kZXhzcQB+AAxoANbPdAAIaGFzaENvZGVzcQB+AAxBOppjdAAIcGFzc3dvcmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAdcmVzdGFwaS5zZXJ2aWNlcy5Vc2Vyc1NlcnZpY2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AmXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCBTAAJaW5oZXJpdGVkcQB+AIFMAAdwYXJlbnRzcQB+AIF4cQB+AJ5zcQB+AJl1cQB+AHwAAAAAc3EAfgCZdXEAfgB8AAAAAHNxAH4AmXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AnXQAD1VzZXJFbnRpdHlUYWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AnXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcQB+ALZ0AAVtb2RlbHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC3c3EAfgCqdAAGT2JqZWN0c3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnQABGphdmFzcQB+ALZ0AARsYW5ncQB+AL1zcQB+AKp0AANBbnlzcQB+AK5zcQB+ALF1cQB+ALQAAAACc3EAfgC2cQB+ALlxAH4AvXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEHJlc3RhcGkuc2VydmljZXNzcQB+AM90AAdyZXN0YXBpc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbPxt3dXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEYvVXNlcnMvbG9jbmd1eWVuL0Rlc2t0b3AvQ1JVREVuZHBvaW50L3NlcnZlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPAZcF3M8B8XKubQiSlj87VeJcuc=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwvfzC+wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw21NBkHQABm5vdGlmeXNxAH4ADGmd71t0AAZkYlVzZXJzcQB+AAyTkD/QdAAEd2FpdHNxAH4ADERe3Nh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMtrJGLnQABmVxdWFsc3NxAH4ADJfQiA90AAxhc0luc3RhbmNlT2ZzcQB+AAyi2fFmdAAKZGJQYXNzd29yZHNxAH4ADB/suN50AAxzeW5jaHJvbml6ZWRzcQB+AAxTI7eWdAANJGlzSW5zdGFuY2VPZnNxAH4ADAUdwqp0AAlub3RpZnlBbGxzcQB+AAx+PCZYdAAMaXNJbnN0YW5jZU9mc3EAfgAM+kHv33QABkNvbmZpZ3NxAH4ADAl9/pN0AAI9PXNxAH4ADIQjI+10AAdqZGJjVXJsc3EAfgAMZn3tQXQABWNsb25lc3EAfgAMnKKiLXQACGh0dHBQb3J0c3EAfgAMSToHuXQABiRpbml0JHNxAH4ADFLhkft0AAh0b1N0cmluZ3NxAH4ADLAgkNp0AAIhPXNxAH4ADPHETDh0AAhnZXRDbGFzc3NxAH4ADEhOyct0AAJuZXNxAH4ADGwuTXJ0AAhodHRwSG9zdHNxAH4ADH9NEvB0AAJlcXNxAH4ADAE8Ny50AAIjI3NxAH4ADHiD7zV0AAhmaW5hbGl6ZXNxAH4ADAuWC/t0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAFxAH4AJXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBic3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AZ3NxAH4AYnVxAH4ARgAAAABzcQB+AGJ1cQB+AEYAAAAAc3EAfgBidXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBmdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB/dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCAc3EAfgBzdAADQW55c3EAfgB3c3EAfgB6dXEAfgB9AAAAAnNxAH4Af3QABXNjYWxhcQB+AIZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWz8bd3V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABGL1VzZXJzL2xvY25ndXllbi9EZXNrdG9wL0NSVURFbmRwb2ludC9zZXJ2ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMY0dC3oYvRJiZ6SqvRHV55T8xt9
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw2t2VxQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEOSYhnQAD0RhdGFiYXNlU2VydmljZXNxAH4ADL2dRrJ0AAZub3RpZnlzcQB+AAx8WkKTdAAEd2FpdHNxAH4ADPwU+/t0AA0kYXNJbnN0YW5jZU9mc3EAfgAMvNIC3nQABmVxdWFsc3NxAH4ADNnEhNF0AAxhc0luc3RhbmNlT2ZzcQB+AAwfD7sCdAAMc3luY2hyb25pemVkc3EAfgAM7Qr6F3QAAmRic3EAfgAMj0AchHQADSRpc0luc3RhbmNlT2ZzcQB+AAzOlDZ1dAAJbm90aWZ5QWxsc3EAfgAMUXM7Z3QADGlzSW5zdGFuY2VPZnNxAH4ADMMhkEp0AAY8aW5pdD5zcQB+AAzu+l0DdAAGZHJpdmVyc3EAfgAMyUMGvXQAAj09c3EAfgAMlZ1ylnQABWNsb25lc3EAfgAMAbfO6HQACHRvU3RyaW5nc3EAfgAMNoxshHQAAiE9c3EAfgAMwc38FHQACGdldENsYXNzc3EAfgAM047cC3QAAm5lc3EAfgAMdNOfk3QAAmVxc3EAfgAM/DttB3QAAiMjc3EAfgAM32Et33QACGZpbmFsaXplc3EAfgAMkeI3EnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHXJlc3RhcGkudXRpbHMuRGF0YWJhc2VTZXJ2aWNldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBic3EAfgBddXEAfgBAAAAAAHNxAH4AXXVxAH4AQAAAAABzcQB+AF11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHtzcQB+AG50AANBbnlzcQB+AHJzcQB+AHV1cQB+AHgAAAACc3EAfgB6dAAFc2NhbGFxAH4AgXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADXJlc3RhcGkudXRpbHNzcQB+AIt0AAdyZXN0YXBpc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbPxt3dXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEYvVXNlcnMvbG9jbmd1eWVuL0Rlc2t0b3AvQ1JVREVuZHBvaW50L3NlcnZlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUErtGjIFUAvRHtXJ5HyTePAVQF3A=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw0DIYPwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3L9uc3QABm5vdGlmeXNxAH4ADA3TmYV0AAR3YWl0c3EAfgAM7kOYMXQADSRhc0luc3RhbmNlT2ZzcQB+AAxA8/JMdAAGZXF1YWxzc3EAfgAMp8/tR3QADGFzSW5zdGFuY2VPZnNxAH4ADHI5AoN0AAxkcm9wRGF0YWJhc2VzcQB+AAxXOwrNdAAMc3luY2hyb25pemVkc3EAfgAMoLFhxXQADSRpc0luc3RhbmNlT2ZzcQB+AAwwncVZdAAVbWlncmF0ZURhdGFiYXNlU2NoZW1hc3EAfgAMzHXjMnQACW5vdGlmeUFsbHNxAH4ADG3J+5B0AAxpc0luc3RhbmNlT2ZzcQB+AAxg2qTidAAGPGluaXQ+c3EAfgAMIbZesnQAAj09c3EAfgAM1+jgFnQABWNsb25lc3EAfgAMeZ4iUXQACHRvU3RyaW5nc3EAfgAMeWbQInQAAiE9c3EAfgAMgp+vD3QACGdldENsYXNzc3EAfgAMdVhmmXQAAm5lc3EAfgAMXxYxj3QADUZseXdheVNlcnZpY2VzcQB+AAyvtMw3dAACZXFzcQB+AAzNX4grdAACIyNzcQB+AAyDOdg0dAAIZmluYWxpemVzcQB+AAzbkp6vdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAbcmVzdGFwaS51dGlscy5GbHl3YXlTZXJ2aWNldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBic3EAfgBddXEAfgBAAAAAAHNxAH4AXXVxAH4AQAAAAABzcQB+AF11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHtzcQB+AG50AANBbnlzcQB+AHJzcQB+AHV1cQB+AHgAAAACc3EAfgB6dAAFc2NhbGFxAH4AgXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADXJlc3RhcGkudXRpbHNzcQB+AIt0AAdyZXN0YXBpc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbPxt3dXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEYvVXNlcnMvbG9jbmd1eWVuL0Rlc2t0b3AvQ1JVREVuZHBvaW50L3NlcnZlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUwS/IcdHWg55JVWqC/U6B/mbIciw=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/MySQLDBImp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbPxt3dXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdABGL1VzZXJzL2xvY25ndXllbi9EZXNrdG9wL0NSVURFbmRwb2ludC9zZXJ2ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFK7NJPYCpIQG7GEUFG94T+piz3hq
+external apis:
+3 items
+endpoint.parseuser.GetAllUsersResponse -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwDCA4qAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDlsrGedAAHZGVjb2RlcnNxAH4AC6XjobZ0AAdlbmNvZGVydXEAfgAJAAAAKXNxAH4ACx5ihkB0AAZub3RpZnlzcQB+AAstp7dRdAAHdW5hcHBseXNxAH4AC999KzJ0AAR3YWl0c3EAfgALUfnbgnQADmNvcHkkZGVmYXVsdCQyc3EAfgALabT34XQADSRhc0luc3RhbmNlT2ZzcQB+AAslI85idAAMcHJvZHVjdEFyaXR5c3EAfgALU5A5E3QABmVxdWFsc3NxAH4AC17EmtN0AAh1c2VybmFtZXNxAH4ACyulVXV0AAxhc0luc3RhbmNlT2ZzcQB+AAs+h/zHdAAEdXVpZHNxAH4ACxSwWH50AAxzeW5jaHJvbml6ZWRzcQB+AAs+DqZZdAANJGlzSW5zdGFuY2VPZnNxAH4AC50vP4d0AAhjYW5FcXVhbHNxAH4AC2R1WjN0AA1wcm9kdWN0UHJlZml4c3EAfgALVMbTkXQACW5vdGlmeUFsbHNxAH4AC/u+Hp90AAxpc0luc3RhbmNlT2ZzcQB+AAvXqKfqdAAGPGluaXQ+c3EAfgALdM7ddXQAAmlkc3EAfgALJqJW7HQAE0dldEFsbFVzZXJzUmVzcG9uc2VzcQB+AAvYpFiwdAAFYXBwbHlzcQB+AAuTTeIvdAACPT1zcQB+AAtsXyRLdAAFY2xvbmVzcQB+AAtKzXvTdAAGJGluaXQkc3EAfgALaQsNE3QABFVzZXJzcQB+AAtictGxdAAOY29weSRkZWZhdWx0JDNzcQB+AAvXHHo3dAAEY29weXNxAH4ACwJIIvt0AAh0b1N0cmluZ3NxAH4AC4TVwZt0AAhpZFN0cmluZ3NxAH4AC3lWpZ90AAZVc2VySWRzcQB+AAvDtDDtdAACIT1zcQB+AAuyyxsUdAAIZ2V0Q2xhc3NzcQB+AAtaWEx/dAAOY29weSRkZWZhdWx0JDFzcQB+AAupERdHdAACbmVzcQB+AAvRQEEndAAEdXNlcnNxAH4ACyKYV290AAJlcXNxAH4ACxlrcFN0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAsI3x9NdAACIyNzcQB+AAsRs4kjdAAIZmluYWxpemVzcQB+AAtz6YggdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAsL+yzKdAAIaGFzaENvZGVzcQB+AAvnnjHXdAAIcGFzc3dvcmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAXZW5kcG9pbnQucGFyc2V1c2VyLlVzZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AhXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBtTAAJaW5oZXJpdGVkcQB+AG1MAAdwYXJlbnRzcQB+AG14cQB+AIpzcQB+AIV1cQB+AGgAAAAAc3EAfgCFdXEAfgBoAAAAAHNxAH4AhXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AiXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AiXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ao3NxAH4AlnEAfgCZc3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonQABGphdmFzcQB+AKJ0AAJpb3EAfgCnc3EAfgCWdAAHUHJvZHVjdHEAfgCcc3EAfgCWdAAGRXF1YWxzcQB+AJxzcQB+AJZ0AAZPYmplY3RzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJ0AARsYW5ncQB+AKdzcQB+AJZ0AANBbnlxAH4AnHNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegB0ABllbmRwb2ludC5wYXJzZXVzZXIuVXNlcklkdXEAfgB9AAAAAHEAfgCBdXEAfgCDAAAAAHNxAH4AhXEAfgCLc3EAfgCFc3EAfgCNc3EAfgCFdXEAfgBoAAAAAHNxAH4AhXVxAH4AaAAAAABzcQB+AIV1cQB+AJQAAAAGc3EAfgCWcQB+AJlzcQB+AJpzcQB+AJ11cQB+AKAAAAACc3EAfgCicQB+AKVxAH4Ap3NxAH4AlnEAfgCZc3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonEAfgCtc3EAfgCidAACaW9xAH4Ap3NxAH4AlnEAfgCxcQB+AM5zcQB+AJZ0AAZFcXVhbHNxAH4AznNxAH4AlnEAfgC1c3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonEAfgCtc3EAfgCicQB+ALtxAH4Ap3NxAH4AlnEAfgC9cQB+AM5zcQB+AGpxAH4Ad3VxAH4AeAAAAABzcQB+AHoEdAAmZW5kcG9pbnQucGFyc2V1c2VyLkdldEFsbFVzZXJzUmVzcG9uc2V1cQB+AH0AAAAAcQB+AIF1cQB+AIMAAAAAc3EAfgCFcQB+AItzcQB+AIVzcQB+AI1zcQB+AIV1cQB+AGgAAAAAc3EAfgCFdXEAfgBoAAAAAHNxAH4AhXVxAH4AlAAAAAZzcQB+AJZxAH4AmXNxAH4AmnNxAH4AnXVxAH4AoAAAAAJzcQB+AKJxAH4ApXEAfgCnc3EAfgCWcQB+AJlzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJ0AAJpb3EAfgCnc3EAfgCWcQB+ALFxAH4A83NxAH4AlnQABkVxdWFsc3EAfgDzc3EAfgCWcQB+ALVzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJxAH4Au3EAfgCnc3EAfgCWcQB+AL1xAH4A83NxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegB0ACZlbmRwb2ludC5wYXJzZXVzZXIuR2V0QWxsVXNlcnNSZXNwb25zZXVxAH4AfQAAAAB+cQB+AH90AAZNb2R1bGV1cQB+AIMAAAAAc3EAfgCFcQB+AItzcQB+AIVzcQB+AI1zcQB+AIV1cQB+AGgAAAAAc3EAfgCFdXEAfgBoAAAAAHNxAH4AhXVxAH4AlAAAAARzcQB+AJZxAH4AmXNxAH4AmnNxAH4AnXVxAH4AoAAAAAJzcQB+AKJxAH4ApXEAfgCnc3EAfgCWcQB+AJlzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJ0AAJpb3EAfgCnc3EAfgCWcQB+ALVzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJxAH4Au3EAfgCnc3EAfgCWcQB+AL1xAH4BGnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACGVuZHBvaW50c3EAfgEudAASZW5kcG9pbnQucGFyc2V1c2Vyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbPxpAgXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEgvVXNlcnMvbG9jbmd1eWVuL0Rlc2t0b3AvQ1JVREVuZHBvaW50L2VuZHBvaW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTsmGz/xkFE1m5UF66rQIe3I/yJeQ==
+endpoint.parseuser.GetAllUsersResponse$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwDCA4qAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDlsrGedAAHZGVjb2RlcnNxAH4AC6XjobZ0AAdlbmNvZGVydXEAfgAJAAAAKXNxAH4ACx5ihkB0AAZub3RpZnlzcQB+AAstp7dRdAAHdW5hcHBseXNxAH4AC999KzJ0AAR3YWl0c3EAfgALUfnbgnQADmNvcHkkZGVmYXVsdCQyc3EAfgALabT34XQADSRhc0luc3RhbmNlT2ZzcQB+AAslI85idAAMcHJvZHVjdEFyaXR5c3EAfgALU5A5E3QABmVxdWFsc3NxAH4AC17EmtN0AAh1c2VybmFtZXNxAH4ACyulVXV0AAxhc0luc3RhbmNlT2ZzcQB+AAs+h/zHdAAEdXVpZHNxAH4ACxSwWH50AAxzeW5jaHJvbml6ZWRzcQB+AAs+DqZZdAANJGlzSW5zdGFuY2VPZnNxAH4AC50vP4d0AAhjYW5FcXVhbHNxAH4AC2R1WjN0AA1wcm9kdWN0UHJlZml4c3EAfgALVMbTkXQACW5vdGlmeUFsbHNxAH4AC/u+Hp90AAxpc0luc3RhbmNlT2ZzcQB+AAvXqKfqdAAGPGluaXQ+c3EAfgALdM7ddXQAAmlkc3EAfgALJqJW7HQAE0dldEFsbFVzZXJzUmVzcG9uc2VzcQB+AAvYpFiwdAAFYXBwbHlzcQB+AAuTTeIvdAACPT1zcQB+AAtsXyRLdAAFY2xvbmVzcQB+AAtKzXvTdAAGJGluaXQkc3EAfgALaQsNE3QABFVzZXJzcQB+AAtictGxdAAOY29weSRkZWZhdWx0JDNzcQB+AAvXHHo3dAAEY29weXNxAH4ACwJIIvt0AAh0b1N0cmluZ3NxAH4AC4TVwZt0AAhpZFN0cmluZ3NxAH4AC3lWpZ90AAZVc2VySWRzcQB+AAvDtDDtdAACIT1zcQB+AAuyyxsUdAAIZ2V0Q2xhc3NzcQB+AAtaWEx/dAAOY29weSRkZWZhdWx0JDFzcQB+AAupERdHdAACbmVzcQB+AAvRQEEndAAEdXNlcnNxAH4ACyKYV290AAJlcXNxAH4ACxlrcFN0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAsI3x9NdAACIyNzcQB+AAsRs4kjdAAIZmluYWxpemVzcQB+AAtz6YggdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAsL+yzKdAAIaGFzaENvZGVzcQB+AAvnnjHXdAAIcGFzc3dvcmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAXZW5kcG9pbnQucGFyc2V1c2VyLlVzZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AhXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBtTAAJaW5oZXJpdGVkcQB+AG1MAAdwYXJlbnRzcQB+AG14cQB+AIpzcQB+AIV1cQB+AGgAAAAAc3EAfgCFdXEAfgBoAAAAAHNxAH4AhXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AiXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AiXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ao3NxAH4AlnEAfgCZc3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonQABGphdmFzcQB+AKJ0AAJpb3EAfgCnc3EAfgCWdAAHUHJvZHVjdHEAfgCcc3EAfgCWdAAGRXF1YWxzcQB+AJxzcQB+AJZ0AAZPYmplY3RzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJ0AARsYW5ncQB+AKdzcQB+AJZ0AANBbnlxAH4AnHNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegB0ABllbmRwb2ludC5wYXJzZXVzZXIuVXNlcklkdXEAfgB9AAAAAHEAfgCBdXEAfgCDAAAAAHNxAH4AhXEAfgCLc3EAfgCFc3EAfgCNc3EAfgCFdXEAfgBoAAAAAHNxAH4AhXVxAH4AaAAAAABzcQB+AIV1cQB+AJQAAAAGc3EAfgCWcQB+AJlzcQB+AJpzcQB+AJ11cQB+AKAAAAACc3EAfgCicQB+AKVxAH4Ap3NxAH4AlnEAfgCZc3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonEAfgCtc3EAfgCidAACaW9xAH4Ap3NxAH4AlnEAfgCxcQB+AM5zcQB+AJZ0AAZFcXVhbHNxAH4AznNxAH4AlnEAfgC1c3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonEAfgCtc3EAfgCicQB+ALtxAH4Ap3NxAH4AlnEAfgC9cQB+AM5zcQB+AGpxAH4Ad3VxAH4AeAAAAABzcQB+AHoEdAAmZW5kcG9pbnQucGFyc2V1c2VyLkdldEFsbFVzZXJzUmVzcG9uc2V1cQB+AH0AAAAAcQB+AIF1cQB+AIMAAAAAc3EAfgCFcQB+AItzcQB+AIVzcQB+AI1zcQB+AIV1cQB+AGgAAAAAc3EAfgCFdXEAfgBoAAAAAHNxAH4AhXVxAH4AlAAAAAZzcQB+AJZxAH4AmXNxAH4AmnNxAH4AnXVxAH4AoAAAAAJzcQB+AKJxAH4ApXEAfgCnc3EAfgCWcQB+AJlzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJ0AAJpb3EAfgCnc3EAfgCWcQB+ALFxAH4A83NxAH4AlnQABkVxdWFsc3EAfgDzc3EAfgCWcQB+ALVzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJxAH4Au3EAfgCnc3EAfgCWcQB+AL1xAH4A83NxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegB0ACZlbmRwb2ludC5wYXJzZXVzZXIuR2V0QWxsVXNlcnNSZXNwb25zZXVxAH4AfQAAAAB+cQB+AH90AAZNb2R1bGV1cQB+AIMAAAAAc3EAfgCFcQB+AItzcQB+AIVzcQB+AI1zcQB+AIV1cQB+AGgAAAAAc3EAfgCFdXEAfgBoAAAAAHNxAH4AhXVxAH4AlAAAAARzcQB+AJZxAH4AmXNxAH4AmnNxAH4AnXVxAH4AoAAAAAJzcQB+AKJxAH4ApXEAfgCnc3EAfgCWcQB+AJlzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJ0AAJpb3EAfgCnc3EAfgCWcQB+ALVzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJxAH4Au3EAfgCnc3EAfgCWcQB+AL1xAH4BGnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACGVuZHBvaW50c3EAfgEudAASZW5kcG9pbnQucGFyc2V1c2Vyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbPxpAgXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEgvVXNlcnMvbG9jbmd1eWVuL0Rlc2t0b3AvQ1JVREVuZHBvaW50L2VuZHBvaW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTsmGz/xkFE1m5UF66rQIe3I/yJeQ==
+endpoint.scala.api.UserEndpoint -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwvH/bjgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAhzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBtteQndAAKaW50U2VnbWVudHNxAH4AC431rtV0AA1zdHJpbmdTZWdtZW50c3EAfgALettqM3QAEGNpcmNlSnNvbkRlY29kZXJzcQB+AAsxKwbudAAPbG9uZ1F1ZXJ5U3RyaW5nc3EAfgAL9Vq9t3QAC2xvbmdTZWdtZW50c3EAfgALt2/n7nQAEGNpcmNlSnNvbkVuY29kZXJzcQB+AAsEHIM+dAARc3RyaW5nUXVlcnlTdHJpbmdzcQB+AAu1rkOPdAAOaW50UXVlcnlTdHJpbmd1cQB+AAkAAABEc3EAfgALft95NHQADWVtcHR5UmVzcG9uc2VzcQB+AAvh4IHAdAAGbm90aWZ5c3EAfgALCkTVUXQAB1JlcXVlc3RzcQB+AAtFDYBldAAEcG9zdHNxAH4ACzZ83ZR0ABFyZXF1ZXN0JGRlZmF1bHQkM3NxAH4AC04VS7N0AAttdXhFbmRwb2ludHNxAH4ACwhpFMF0AAR3YWl0c3EAfgAL4u+9CHQAB3JlcXVlc3RzcQB+AAvjKJJmdAANJGFzSW5zdGFuY2VPZnNxAH4ACyRt+L90AARwYXRoc3EAfgALiQvWUnQADlF1ZXJ5U3RyaW5nT3Bzc3EAfgALFN1lgXQAC011eEVuZHBvaW50c3EAfgALoEsqgnQAC1F1ZXJ5U3RyaW5nc3EAfgALGnWK/nQABmVxdWFsc3NxAH4AC50lqOB0AANHZXRzcQB+AAvay7cYdAADUHV0c3EAfgAL2fVU4XQAA091dHNxAH4AC9N2g/t0ABNjb21iaW5lUXVlcnlTdHJpbmdzc3EAfgALX1bbunQADVJlcXVlc3RFbnRpdHlzcQB+AAs036UxdAAEUGF0aHNxAH4AC/1S2eR0AAhFbmRwb2ludHNxAH4AC4NHnBZ0AAxhc0luc3RhbmNlT2ZzcQB+AAuScrO1dAALanNvblJlcXVlc3RzcQB+AAsELki1dAARcmVxdWVzdCRkZWZhdWx0JDRzcQB+AAu90SuNdAABJnNxAH4AC5OPVHh0AAxzeW5jaHJvbml6ZWRzcQB+AAt3se/2dAACcXNzcQB+AAtEfj4sdAANJGlzSW5zdGFuY2VPZnNxAH4AC3mpSRp0AAxlbXB0eUhlYWRlcnNzcQB+AAu25ZxodAAManNvblJlc3BvbnNlc3EAfgALMHjpMnQAB3NlZ21lbnRzcQB+AAvRVMvwdAAJbm90aWZ5QWxsc3EAfgALhPhZpXQACmNoYWluUGF0aHNzcQB+AAsXroCwdAAMaXNJbnN0YW5jZU9mc3EAfgALNQ04vXQADWdldCRkZWZhdWx0JDJzcQB+AAv4LWBydAACLz9zcQB+AAuCM2HLdAAGRGVsZXRlc3EAfgALM1EuRXQAB1NlZ21lbnRzcQB+AAuPsjRPdAAMSnNvblJlc3BvbnNlc3EAfgALuX/QDnQAAj09c3EAfgALRtXpDXQABFBvc3RzcQB+AAs5VGv3dAAQUXVlcnlTdHJpbmdQYXJhbXNxAH4AC88j2Jd0AAxVc2VyRW5kcG9pbnRzcQB+AAscCXpQdAAFY2xvbmVzcQB+AAu1GU5ydAAHUGF0aE9wc3NxAH4AC2FAvWh0ABJ1cmxXaXRoUXVlcnlTdHJpbmdzcQB+AAulU/3GdAAGTWV0aG9kc3EAfgAL5X6RiXQABiRpbml0JHNxAH4AC3DWFhZ0AAhSZXNwb25zZXNxAH4ACyV2Nnd0AANVcmxzcQB+AAs7icjVdAAFb3B0UXNzcQB+AAu4o6VDdAARc3RhdGljUGF0aFNlZ21lbnRzcQB+AAuKhbVpdAAIZW5kcG9pbnRzcQB+AAvjpr+odAAIdG9TdHJpbmdzcQB+AAvNi/R7dAAMZW1wdHlSZXF1ZXN0c3EAfgAL1trd8nQAAiE9c3EAfgALZytW7XQADnBvc3QkZGVmYXVsdCQzc3EAfgALL1bmWnQAC2dldEFsbFVzZXJzc3EAfgALbkJx3HQAA2dldHNxAH4AC2DjIuB0AAhnZXRDbGFzc3NxAH4AC8B24Xx0AAJuZXNxAH4AC9XhJhR0AAJlcXNxAH4AC7fSlVt0AA5SZXF1ZXN0SGVhZGVyc3NxAH4AC36Kwkp0AAEvc3EAfgALf9pCvnQAC0pzb25SZXF1ZXN0c3EAfgALjIdXVHQAAiMjc3EAfgALb8TCr3QACGZpbmFsaXplc3EAfgALQP7fJXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ar3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQAH2VuZHBvaW50LnNjYWxhLmFwaS5Vc2VyRW5kcG9pbnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ax3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCvTAAJaW5oZXJpdGVkcQB+AK9MAAdwYXJlbnRzcQB+AK94cQB+AMxzcQB+AMd1cQB+AKoAAAAAc3EAfgDHdXEAfgCqAAAAAHNxAH4Ax3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAHc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ay3QADUNpcmNlRW50aXRpZXNzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQACWVuZHBvaW50c3NxAH4A5HQAB2FsZ2VicmFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A5XNxAH4A2HQADEpzb25FbnRpdGllc3EAfgDec3EAfgDYdAAJRW5kcG9pbnRzcQB+AN5zcQB+ANh0AAdNZXRob2RzcQB+AN5zcQB+ANh0AARVcmxzcQB+AN5zcQB+ANh0AAZPYmplY3RzcQB+ANxzcQB+AN91cQB+AOIAAAADc3EAfgDkdAAEamF2YXNxAH4A5HQABGxhbmdxAH4A63NxAH4A2HQAA0FueXNxAH4A3HNxAH4A33VxAH4A4gAAAAJzcQB+AOR0AAVzY2FsYXEAfgDrdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAASZW5kcG9pbnQuc2NhbGEuYXBpc3EAfgEGdAAOZW5kcG9pbnQuc2NhbGFzcQB+AQZ0AAhlbmRwb2ludHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWz8aQIF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABIL1VzZXJzL2xvY25ndXllbi9EZXNrdG9wL0NSVURFbmRwb2ludC9lbmRwb2ludC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPbTnvNdi87y4lcIHKcaAXs0lqxY=
+source infos:
+11 items
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserEntity.scala -> 
+AAAAAAAAAAA=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/model/UserModel.scala -> 
+AAAAAAAAAAA=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala -> 
+AAAAAAAAAAA=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala -> 
+AAAAAAAAAAA=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/MainService.scala -> 
+AAAAAAAAAAA=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/services/UserService.scala -> 
+AAAAAAAAAAA=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseConfig.scala -> 
+AAAAAAAAAAA=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/DatabaseService.scala -> 
+AAAAAQAAAQAAABAAKQl2YWwgZHJpdmVyID0gc2xpY2suZHJpdmVyLlBvc3RncmVzRHJpdmVyAQAAAb0BAAAAGwEAGwkgICAgICAgICAgICAgICAgICAgICAgICAgIAEAVi9Vc2Vycy9sb2NuZ3V5ZW4vRGVza3RvcC9DUlVERW5kcG9pbnQvc2VydmVyL3NyYy9tYWluL3NjYWxhL3V0aWwvRGF0YWJhc2VTZXJ2aWNlLnNjYWxhAQBWL1VzZXJzL2xvY25ndXllbi9EZXNrdG9wL0NSVURFbmRwb2ludC9zZXJ2ZXIvc3JjL21haW4vc2NhbGEvdXRpbC9EYXRhYmFzZVNlcnZpY2Uuc2NhbGEAhnZhbHVlIFBvc3RncmVzRHJpdmVyIGluIHBhY2thZ2UgZHJpdmVyIGlzIGRlcHJlY2F0ZWQ6IFVzZSBvYmplY3QgYHNsaWNrLmpkYmMuUG9zdGdyZXNQcm9maWxlYCBpbnN0ZWFkIG9mIGBzbGljay5kcml2ZXIuUG9zdGdyZXNEcml2ZXJgAQAAAAA=
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/FlywayService.scala -> 
+AAAAAQAAAQAAAAwANglkZWYgbWlncmF0ZURhdGFiYXNlU2NoZW1hKCkgOiBVbml0ID0gZmx5d2F5Lm1pZ3JhdGUoKQEAAAE/AQAAADQBADQJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBUL1VzZXJzL2xvY25ndXllbi9EZXNrdG9wL0NSVURFbmRwb2ludC9zZXJ2ZXIvc3JjL21haW4vc2NhbGEvdXRpbC9GbHl3YXlTZXJ2aWNlLnNjYWxhAQBUL1VzZXJzL2xvY25ndXllbi9EZXNrdG9wL0NSVURFbmRwb2ludC9zZXJ2ZXIvc3JjL21haW4vc2NhbGEvdXRpbC9GbHl3YXlTZXJ2aWNlLnNjYWxhABhkaXNjYXJkZWQgbm9uLVVuaXQgdmFsdWUBAAAAAA==
+/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/util/MySQLDBImp.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWz8bd3V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9sb2NuZ3V5ZW4vRGVza3RvcC9DUlVERW5kcG9pbnQvc2VydmVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

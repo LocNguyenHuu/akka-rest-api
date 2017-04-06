@@ -1,0 +1,21 @@
+reload
+compile
+projects
+project client
+compile
+start
+reload
+compile
+reload
+compile
+reload
+update
+compile
+exit
+reload
+compile
+reload
+compile
+project main
+compile
+project main

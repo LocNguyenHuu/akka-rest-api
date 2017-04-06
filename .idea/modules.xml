@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client-build.iml" filepath="$PROJECT_DIR$/.idea/modules/client-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crudendpoint.iml" filepath="$PROJECT_DIR$/.idea/modules/crudendpoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crudendpoint-build.iml" filepath="$PROJECT_DIR$/.idea/modules/crudendpoint-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/endpoint.iml" filepath="$PROJECT_DIR$/.idea/modules/endpoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/endpoint-build.iml" filepath="$PROJECT_DIR$/.idea/modules/endpoint-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model.iml" filepath="$PROJECT_DIR$/.idea/modules/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model-build.iml" filepath="$PROJECT_DIR$/.idea/modules/model-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository.iml" filepath="$PROJECT_DIR$/.idea/modules/repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository-build.iml" filepath="$PROJECT_DIR$/.idea/modules/repository-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server-build.iml" filepath="$PROJECT_DIR$/.idea/modules/server-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service.iml" filepath="$PROJECT_DIR$/.idea/modules/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-build.iml" filepath="$PROJECT_DIR$/.idea/modules/service-build.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,64 @@
+[0m[[0mdebug[0m] [0m[naha] The ark.service.UsersService source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	getAll.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) ark.service.UsersService: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) ark.service.UsersService.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/HttpService.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The restapi.repository.UsersRepository source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	updateUser.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) restapi.repository.UsersRepository: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) restapi.repository.UsersRepository.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/Main.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set(NamesChange(ark.service.UsersService,ModifiedNames(regularNames = getAll, implicitNames = )), NamesChange(restapi.repository.UsersRepository,ModifiedNames(regularNames = updateUser, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.12.1[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.12.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 54b744d0, interfacing (CompilerInterface) with Scala compiler version 2.12.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-encoding[0m
+[0m[[0mdebug[0m] [0m	UTF-8[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-Xlint[0m
+[0m[[0mdebug[0m] [0m	-Yno-adapted-args[0m
+[0m[[0mdebug[0m] [0m	-Ywarn-dead-code[0m
+[0m[[0mdebug[0m] [0m	-Ywarn-numeric-widen[0m
+[0m[[0mdebug[0m] [0m	-Ywarn-value-discard[0m
+[0m[[0mdebug[0m] [0m	-Xfuture[0m
+[0m[[0mdebug[0m] [0m	-Xexperimental[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/classes:/Users/locnguyen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/locnguyen/Desktop/CRUDEndpoint/server/target/scala-2.12/classes:/Users/locnguyen/Desktop/CRUDEndpoint/endpoint/target/scala-2.12/classes:/Users/locnguyen/Desktop/CRUDEndpoint/model/target/scala-2.12/classes:/Users/locnguyen/Desktop/CRUDEndpoint/service/target/scala-2.12/classes:/Users/locnguyen/Desktop/CRUDEndpoint/persistency/target/scala-2.12/classes:/Users/locnguyen/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.34.jar:/Users/locnguyen/.ivy2/cache/com.typesafe.slick/slick_2.12/bundles/slick_2.12-3.2.0-M2.jar:/Users/locnguyen/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.18.jar:/Users/locnguyen/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.jar:/Users/locnguyen/.ivy2/cache/org.postgresql/postgresql/jars/postgresql-9.4-1201-jdbc41.jar:/Users/locnguyen/.ivy2/cache/com.zaxxer/HikariCP/bundles/HikariCP-2.4.5.jar:/Users/locnguyen/.ivy2/cache/org.flywaydb/flyway-core/jars/flyway-core-3.2.1.jar:/Users/locnguyen/.ivy2/cache/org.slf4j/slf4j-nop/jars/slf4j-nop-1.6.4.jar:/Users/locnguyen/.ivy2/cache/io.circe/circe-core_2.12/jars/circe-core_2.12-0.7.0.jar:/Users/locnguyen/.ivy2/cache/io.circe/circe-numbers_2.12/jars/circe-numbers_2.12-0.7.0.jar:/Users/locnguyen/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar:/Users/locnguyen/.ivy2/cache/org.typelevel/cats-macros_2.12/jars/cats-macros_2.12-0.9.0.jar:/Users/locnguyen/.ivy2/cache/com.github.mpilquist/simulacrum_2.12/jars/simulacrum_2.12-0.10.0.jar:/Users/locnguyen/.ivy2/cache/org.typelevel/macro-compat_2.12/jars/macro-compat_2.12-1.1.1.jar:/Users/locnguyen/.ivy2/cache/org.typelevel/machinist_2.12/jars/machinist_2.12-0.6.1.jar:/Users/locnguyen/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.1.jar:/Users/locnguyen/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-0.9.0.jar:/Users/locnguyen/.ivy2/cache/io.circe/circe-generic-extras_2.12/jars/circe-generic-extras_2.12-0.7.0.jar:/Users/locnguyen/.ivy2/cache/io.circe/circe-generic_2.12/jars/circe-generic_2.12-0.7.0.jar:/Users/locnguyen/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar:/Users/locnguyen/.ivy2/cache/io.circe/circe-parser_2.12/jars/circe-parser_2.12-0.7.0.jar:/Users/locnguyen/.ivy2/cache/io.circe/circe-jawn_2.12/jars/circe-jawn_2.12-0.7.0.jar:/Users/locnguyen/.ivy2/cache/org.spire-math/jawn-parser_2.12/jars/jawn-parser_2.12-0.10.4.jar:/Users/locnguyen/.ivy2/cache/org.julienrf/endpoints-algebra_2.12/jars/endpoints-algebra_2.12-0.2.0.jar:/Users/locnguyen/.ivy2/cache/org.julienrf/endpoints-algebra-circe_2.12/jars/endpoints-algebra-circe_2.12-0.2.0.jar:/Users/locnguyen/.ivy2/cache/io.monix/monix-types_2.12/jars/monix-types_2.12-2.2.4.jar:/Users/locnguyen/.ivy2/cache/io.monix/monix-execution_2.12/jars/monix-execution_2.12-2.2.4.jar:/Users/locnguyen/.ivy2/cache/io.monix/monix-eval_2.12/jars/monix-eval_2.12-2.2.4.jar:/Users/locnguyen/.ivy2/cache/io.monix/monix-reactive_2.12/jars/monix-reactive_2.12-2.2.4.jar:/Users/locnguyen/.ivy2/cache/org.jctools/jctools-core/bundles/jctools-core-2.0.jar:/Users/locnguyen/.ivy2/cache/org.julienrf/endpoints-akka-http-server_2.12/jars/endpoints-akka-http-server_2.12-0.2.0.jar:/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.1.jar:/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.1.jar:/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-parsing_2.12/jars/akka-parsing_2.12-10.0.1.jar:/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.16.jar:/Users/locnguyen/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.16.jar:/Users/locnguyen/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar:/Users/locnguyen/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.12/bundles/scala-java8-compat_2.12-0.8.0.jar:/Users/locnguyen/.ivy2/cache/com.typesafe/ssl-config-core_2.12/bundles/ssl-config-core_2.12-0.2.1.jar:/Users/locnguyen/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.0.4.jar:/Users/locnguyen/.ivy2/cache/org.julienrf/endpoints-akka-http-server-circe_2.12/jars/endpoints-akka-http-server-circe_2.12-0.2.0.jar:/Users/locnguyen/.ivy2/cache/de.heikoseeberger/akka-http-circe_2.12/jars/akka-http-circe_2.12-1.11.0.jar[0m
+[0m[[33mwarn[0m] [0m/Users/locnguyen/Desktop/CRUDEndpoint/server/src/main/scala/route/UserServiceRoute.scala:67: discarded non-Unit value[0m
+[0m[[33mwarn[0m] [0m		userService.remove(userId)[0m
+[0m[[33mwarn[0m] [0m		                  ^[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 1.337428912 s[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
